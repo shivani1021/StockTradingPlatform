@@ -1,6 +1,9 @@
-Stock Trading Platform (Zerodha Clone)
-A full-stack stock trading application consisting of a main frontend for users,
-a specialized dashboard for trading data, and a robust backend.
+**Stock Trading Platform (Zerodha Clone)**  
+
+A full-stack stock trading application consisting of a main frontend for users,  
+
+a specialized dashboard for trading data, and a robust backend.  
+
 
 📂 Project Structure
 The repository is organized into three main modules:
