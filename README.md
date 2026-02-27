@@ -5,7 +5,8 @@ A full-stack stock trading application consisting of a main frontend for users,
 a specialized dashboard for trading data, and a robust backend.  
 
 
-📂 Project Structure
+**📂 Project Structure**  
+
 The repository is organized into three main modules:
 
 backend/: Node.js/Express server handling data and API logic.
@@ -14,7 +15,8 @@ frontend/: The primary user interface for the trading platform.
 
 dashboard/: A dedicated interface for managing portfolios and market data.
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**  
+
 Frontend & Dashboard: React.js / Vite
 
 Backend: Node.js, Express
